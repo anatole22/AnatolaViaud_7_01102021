@@ -1,0 +1,16 @@
+{
+  "name": "projet7",
+  "version": "1.0.0",
+  "description": "Créez un réseau social d’entreprise pour la société Groupomania",
+  "main": "index.js",
+  "dependencies": {
+    "@vue/cli-service": "^4.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+  
