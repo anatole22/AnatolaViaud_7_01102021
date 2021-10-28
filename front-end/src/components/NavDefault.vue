@@ -5,7 +5,7 @@
                 <span class="navbar-toggler-icon"></span>
             </a>
             <div class="dropdown-menu dropdown-menu-right " aria-labelledby="my_account">
-                <div class="d-flex"><img src="/images/pass.svg" class="pl-4"><router-link to="/connexion" class="dropdown-item pl-2">Connexion</router-link></div>
+                <div class="d-flex"><img src="/images/pass.svg" class="pl-4"><router-link to="/" class="dropdown-item pl-2">Connexion</router-link></div>
                 <div class="d-flex"><img src="/images/mail.svg" class="pl-4"><router-link to="/inscription" class="dropdown-item pl-2">Inscription</router-link></div>
             </div>
         </div>
